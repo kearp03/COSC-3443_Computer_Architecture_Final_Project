@@ -1,0 +1,3 @@
+﻿  Assembling phase3optimization2.asm...
+legacy_stdio_wide_specifiers.lib(legacy_stdio_wide_specifiers.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+  Phase3Optimization2.vcxproj -> E:\2023FA\1) Computer Architecture\Phase3Optimization2\x64\Debug\Phase3Optimization2.exe
